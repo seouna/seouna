@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header)
 
 <div align = "center">
-<h1>🎁SeoYuNa🎁</h1>
+<h1>I'm SeoYuNa</h1>
 <h3>Nice to meet you </h3><br/>
 <br>
-Have a good day
+🍀 Have a good day 🍀
 
 <br/><br/>
 
@@ -65,4 +65,4 @@ Have a good day
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=footer&fontSize=90)
