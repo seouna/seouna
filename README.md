@@ -56,5 +56,4 @@
 
 </div>
 <div align = "center">
-😭 설정을 이상하게 해서 잔디가 안심겨요.. ㅠ😭 <br/>
 </div>
