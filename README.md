@@ -29,7 +29,7 @@
 <br>
 <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=flat&logo=MySql&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 
