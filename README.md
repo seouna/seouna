@@ -5,7 +5,7 @@
 <div align = "center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=150&section=header&fontSize=90)
-<h3>😃 Nice to meet you 😃</h3><br/>
+<h3>😃 안녕하세요 😃</h3><br/>
 <br>
 <b>I'm YUNA</b><br/>
 🍀 Have a good day 🍀
